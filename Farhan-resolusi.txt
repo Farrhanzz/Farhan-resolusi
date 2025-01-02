@@ -3,3 +3,4 @@ FARHAN RESOLUSI
 - merancang sebuah projek seperti halnya network monitoring
 - Banyak praktik: Networking
 - Membuat portofolio: Dokumentasikan projek.
+- Mengikuti Pelatihan MikroTik
